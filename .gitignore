@@ -1,0 +1,5 @@
+a.out
+libftprintf.a
+src/*.o
+src/a.out
+main.c
